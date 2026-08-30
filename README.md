@@ -3,5 +3,5 @@
 ## Actualemente cursando la materia TSO
 ## Sobre mi   
 Lenguaje de programacion: Java, C, C++  
-Tiempo Libre: Estudio y Trabajo
-Me gusta salir a tomar mates en mi tiempo libre.  
+Estudio y Trabajo  
+Tiempo Libre:Me gusta salir a pasear con mis hijos.  
